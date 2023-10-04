@@ -2,6 +2,7 @@
 
 Greetings! Today, I am thrilled to walk you through my successful execution of a MultiCloud migration project involving Amazon Web Services (AWS) and Google Cloud Platform (GCP). Let's delve into the intricacies of seamless cloud migration!
 
+Here is the blog post I made breaking down this project. (https://medium.com/@vloidcloudtech/hands-on-project-implementation-mission-accomplished-in-multicloud-architecture-94160edf48d0)
 ---
 
 ## Mission 1: Setting Up AWS Infrastructure
